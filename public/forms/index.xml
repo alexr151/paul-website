@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Forms on Gentle Tai Chi</title>
+    <link>/forms/</link>
+    <description>Recent content in Forms on Gentle Tai Chi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2023 19:20:22 -0500</lastBuildDate><atom:link href="/forms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gratitude Tai Chi</title>
+      <link>/forms/gratitude_tai_chi/</link>
+      <pubDate>Tue, 28 Mar 2023 19:20:22 -0500</pubDate>
+      
+      <guid>/forms/gratitude_tai_chi/</guid>
+      <description>this will eventually have split layout
+Reach to the front with one hand
+Reach to the back with the other hand
+Reach to the side with one hand
+Reach to the other side with the other hand
+Reach down
+Reach up
+Reach around with both hands
+Hands come down to Namaste, palms together, thumbs towards your heart
+corresponds with steps above in order We give thanks for the beauty before us</description>
+    </item>
+    
+  </channel>
+</rss>

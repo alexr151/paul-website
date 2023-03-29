@@ -1,0 +1,40 @@
+baseURL: ""
+languageCode: en-us
+title: Gentle Tai Chi
+theme: PaperMod
+description: 'We are working to make tai chi available to as many people as possible.  We are also having a good time.'
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: whytaichi
+      name: Why Tai Chi?
+      url: /why_tai_chi
+      weight: 20
+    - identifier: forms
+      name: Forms
+      url: /forms
+      weight: 30
+
+params:
+  cover.responsiveImages: true
+  disableScrollToTop: true
+  
+  # Profile Mod
+  profileMode:
+    enabled: true
+    title: "Tai Chi with Paul Ryberg"
+    subtitle: "I am working to make tai chi available to as many people as possible. I am also having a good time."
+    imageUrl: "img/tai_chi_instructor.jpg"
+    imageWidth: 320
+    imageHeight: 320
+
+  socialIcons:
+  - name: "email"
+    url: "mailto:pryberg@gmail.com"
+  - name: "facebook"
+    url: "https://www.facebook.com/pryberg1"
+    
